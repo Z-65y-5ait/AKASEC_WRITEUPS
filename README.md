@@ -16,5 +16,8 @@ Here is a screenshot of the issue:
 3. Step three: WRITE A PROGRAM TO DECRYPTE THE THE FLAG WHICH START WITH "AKASEC{" AS SHOWEN IN TH PICS
 4. Final Step: Solved it!
 
+## FLAG
+Decrypted flag: AKASEC{ahya_xni_3ndk_al3ayl}
+
 ## Conclusion
 THIS CHALLENGE WILL HELP YOU TO UNDERSTAND THE "random.seed" AND THE "xor"
