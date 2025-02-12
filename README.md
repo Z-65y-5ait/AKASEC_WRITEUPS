@@ -7,7 +7,9 @@ This is my write-up about the first crypto challenge.
 ## Screenshot
 Here is a screenshot of the issue:
 ![image](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images/Screen_Shot%20_2.png)
+
 ![image](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images/Screen_Shot%20_3.png)
+
 ![image](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images/Screen_Shot%20_4.png)
 
 ## Steps Taken
