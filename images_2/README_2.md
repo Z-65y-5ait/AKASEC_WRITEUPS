@@ -10,7 +10,7 @@ This is my write-up about the second crypto challenge.
 ## Output given:
 ![image](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images_2/Screen_Shot%20_2'1.png)
 ## The code to solve the challenge:
-![image](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images_2/Screen_Shot%20_1'1.png)
+![image]([https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images_2/Screen_Shot%20_1'1.png](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images_2/Screen_Shot_1'1.png))
 
 ## Steps Taken
 1. Step one: RUN THE PROGRAM GIVEN IN THE CHALLENGE TO SEE THE OUTPUT OF THE PROGRAM (we can see that the program give the values of p, q and c)
