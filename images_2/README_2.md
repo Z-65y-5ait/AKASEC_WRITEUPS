@@ -6,7 +6,7 @@ This is my write-up about the second crypto challenge.
 
 ## Screenshot
 ## Here is a screenshot of the issue:
-![image](https://raw.githubusercontent.com/Z-65y-5ait/AKASEC_WRITEUPS/main/images_2/Screen_Shot_1.png)
+![image](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images_2/Screen_Shot%20_3'1.png)
 
 ![image](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images_2/Screen_Shot%20_2'1.png)
 
