@@ -7,8 +7,8 @@ This is my write-up about the first crypto challenge.
 ## Screenshot
 Here is a screenshot of the issue:
 ![image](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images/Screen_Shot%20_2.png)
-![image](images/Screen_Shot_3.png)
-![image](images/Screen_Shot_4.png)
+![image]([images/Screen_Shot_3.png](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images/Screen_Shot%20_3.png))
+![image]([images/Screen_Shot_4.png](https://github.com/Z-65y-5ait/AKASEC_WRITEUPS/blob/main/images/Screen_Shot%20_4.png))
 
 ## Steps Taken
 1. Step one: RUN THE PROGRAM GIVEN IN THE CHALLENGE TO SEE THE OUTPUT OF THE PROGRAM
