@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This is my detailed write-up about the first crypto challenge.
+This is my write-up about the first crypto challenge.
 
 ## Screenshot
 Here is a screenshot of the issue:
