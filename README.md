@@ -6,7 +6,7 @@ This is my write-up about the first crypto challenge.
 
 ## Screenshot
 Here is a screenshot of the issue:
-![image](images/Screen_Shot_2.png)
+![image](./images/Screen_Shot_2.png)
 ![image](images/Screen_Shot_3.png)
 ![image](images/Screen_Shot_4.png)
 
